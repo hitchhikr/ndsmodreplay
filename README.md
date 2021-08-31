@@ -1,1 +1,2 @@
-A protracker (.mod) replay routine for the Nintendo DS, fast, small and accurate.
+A protracker (.mod) replay routine for the Nintendo DS.<br>
+Fast, small and accurate.
