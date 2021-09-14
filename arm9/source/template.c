@@ -1,5 +1,5 @@
 // ------------------------------------------------
-// Protracker replay routine v1.5e
+// Protracker/Fasttracker replay routine v1.5f
 // ------------------------------------------------
 // (C) 2007-2021 Franck "hitchhikr" Charlet.
 // ------------------------------------------------
